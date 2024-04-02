@@ -51,7 +51,7 @@ class TaskContents extends StatelessWidget {
               ),
             ),
             Padding(
-              padding: EdgeInsets.only(top: 10),
+              padding: EdgeInsets.only(top: 5),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.end,
                 children: [
